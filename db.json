@@ -1,0 +1,86 @@
+{
+  "films": [
+    {
+      "id": 1,
+      "tytul": "Krucyfiks",
+      "kategoria": "horror",
+      "opis": "Do więziennej celi trafia ojciec Anton, ksiądz, skazany za zabójstwo opętanej zakonnicy, nad którą sprawował egzorcyzmy. Jego sprawą interesuje się zdolna dziennikarka śledcza Nicole Rawlins. Reporterka nie przepuści żadnej okazji, aby pokazać światu daleko idące nieprawidłowości w działaniu organizacji kościelnej. Nicole wyrusza w podróż do niewielkiego miasteczka w odległej Rumunii, gdzie miały miejsce tajemnicze zdarzenia. ",
+      "ocena": 2,
+      "link": "http://1.fwcdn.pl/po/24/40/732440/7803791.6.jpg"
+    },
+    {
+      "id": 2,
+      "tytul": "Blade Runner 2049",
+      "kategoria": "horror",
+      "opis": "Oficer policji Los Angeles trafia na ukrywaną przez lata informację, która może pogrążyć resztki społeczeństwa w chaosie. Odkrycie prowadzi go do poszukiwań Ricka Deckarda, byłego łowcy androidów, który zaginął trzydzieści lat temu.",
+      "ocena": 2,
+      "link": "https://images-na.ssl-images-amazon.com/images/M/MV5BNzA1Njg4NzYxOV5BMl5BanBnXkFtZTgwODk5NjU3MzI@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+      "id": 2,
+      "tytul": "Wilgotne miejsca",
+      "kategoria": "horror",
+      "opis": "Helen nie chce pogodzić się z rozwodem rodziców i marzy, żeby znów zamieszkali razem. Łamie jedno tabu za drugim i nie próbuje wcielać się w męskie fantazje, bo z oddaniem realizuje własne. Przy goleniu miejsc intymnych, zacina się i trafia do szpitala. Ma nadzieję, że zmieni to jej życie. Czy odnajdzie prawdziwą miłość? 'Wilgotne miejsca' Davida Wnendta to inteligentna adaptacja",
+      "ocena": 2,
+      "link": "https://i.wpimg.pl/O/423x600/i.wp.pl/a/f/film/008/81/22/0382281.jpg"
+    },
+    {
+      "id": 3,
+      "tytul": "Dunkierka",
+      "kategoria": "horror",
+      "opis": "Alianccy żołnierze z Belgii, Wielkiej Brytanii, Kanady oraz Francji zostają otoczeni przez niemiecką armię i ewakuowani podczas najbardziej zaciekłej bitwy II Wojny Światowej.",
+      "ocena": 2,
+      "link": "http://1.fwcdn.pl/po/11/41/681141/7797814.6.jpg"
+    },
+    {
+      "id": 4,
+      "tytul": "Twój Vincent",
+      "kategoria": "horror",
+      "opis": "„Twój Vincent” to pierwsza pełnometrażowa animacja malarska, która zachwyca widzów na całym świecie. Każda z 65 000 klatek filmu została ręcznie namalowana, w projekcie wzięło udział 125 zawodowych malarzy z całego świata, którzy świat znany z obrazów van Gogha ożywili na ekranie.",
+      "ocena": 2,
+      "link": "http://1.fwcdn.pl/po/82/07/698207/7799420.6.jpg"
+    },
+    {
+      "id": 5,
+      "tytul": "Piraci z Karaibów: Zemsta Salazara",
+      "kategoria": "horror",
+      "opis": "Film oparty na faktach",
+      "ocena": 2,
+      "link": "http://1.fwcdn.pl/po/65/42/606542/7785907.6.jpg"
+    },
+    {
+      "id": 6,
+      "tytul": "W starym dobrym stylu",
+      "kategoria": "horror",
+      "opis": "Trzej najlepsi kumple – Willie, Joe i Al decydują się przełamać stereotyp spokojnych emerytów i po raz pierwszy w życiu zejść ze ścieżki prawości, kiedy ich fundusz emerytalny zostaje zlikwidowany.",
+      "ocena": 2,
+      "link": "http://1.fwcdn.pl/po/44/84/744484/7784954.6.jpg"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "login": "admin",
+      "haslo": "admin123",
+      "role": "ROLE_ADMIN"
+    },
+    {
+      "id": 2,
+      "login": "user",
+      "haslo": "user123",
+      "role": "ROLE_USER"
+    },
+    {
+      "id": 3,
+      "login": "cos",
+      "haslo": "cos123",
+      "role": "ROLE_USER"
+    },
+    {
+      "login": "cos2",
+      "haslo": "cos123",
+      "role": "ROLE_USER",
+      "id": 4
+    }
+  ]
+}
